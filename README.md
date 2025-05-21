@@ -28,7 +28,7 @@ This hands-on project demonstrates how to detect suspicious activity on a Window
 ## 📸 Screenshots
 
 ### Wazuh Login Page
-![Image](<img width="1728" alt="Screenshot 2025-05-05 at 2 46 57 PM" src="https://github.com/user-attachments/assets/f9ff469e-ff1b-4980-8000-5cf556be3620" />)
+![Image](https://github.com/user-attachments/assets/f9ff469e-ff1b-4980-8000-5cf556be3620)
 
 ### Active Sysmon Agent (Windows 11 VM)
 ![Wazuh Agent Active](./Screenshot%202025-05-05%20at%202.49.27%20PM.jpeg)
