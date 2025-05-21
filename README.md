@@ -31,7 +31,7 @@ This hands-on project demonstrates how to detect suspicious activity on a Window
 ![Image](https://github.com/user-attachments/assets/f9ff469e-ff1b-4980-8000-5cf556be3620)
 
 ### Active Sysmon Agent (Windows 11 VM)
-![Wazuh Agent Active](./Screenshot%202025-05-05%20at%202.49.27%20PM.jpeg)
+![Image](https://github.com/user-attachments/assets/8c78a3d4-c38f-487f-8f56-7b0b204f64df)
 
 ### Azure NSG Rules for Exposure Simulation
 ![Azure NSG](./Screenshot%202025-05-06%20at%201.01.44%20PM.jpeg)
