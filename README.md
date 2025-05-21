@@ -11,7 +11,7 @@ This hands-on project demonstrates how to detect suspicious activity on a Window
 - **Windows 11 VM** for adversary simulation
 - **Kali Linux** (Hydra brute-force testing)
 - **Microsoft Azure** (NSG configuration, VM management)
-- **Parallels/VMware** on Mac M3 ARM64
+- **VMware** on Mac M3 ARM64
 
 ---
 
