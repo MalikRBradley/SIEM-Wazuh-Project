@@ -41,7 +41,7 @@ This hands-on project demonstrates how to detect suspicious activity on a Window
 
 ### Brute-Force Attempt from Kali (Hydra)
 ![Image](https://github.com/user-attachments/assets/2fcc8c60-e585-4490-b229-ecb0f3a62e67)
-
+hydra -t 4 -v -f -l windowsuser -P /usr/share/wordlists/rockyou.txt rdp://20.127.233.1
 ### Threat Hunting in Wazuh Dashboard
 ![Image](https://github.com/user-attachments/assets/503215b5-6020-4c83-bbf6-bc6052bfaccd)
 
