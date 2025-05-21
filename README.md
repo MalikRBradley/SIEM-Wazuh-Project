@@ -34,7 +34,7 @@ This hands-on project demonstrates how to detect suspicious activity on a Window
 ![Image](https://github.com/user-attachments/assets/8c78a3d4-c38f-487f-8f56-7b0b204f64df)
 
 ### Azure NSG Rules for Exposure Simulation
-![Azure NSG](./Screenshot%202025-05-06%20at%201.01.44%20PM.jpeg)
+![Image](https://github.com/user-attachments/assets/a2c8ba23-a8a5-461a-9ca6-47498f2f106d)
 
 ### Event ID 4625 (Failed Logon Attempt)
 ![Event 4625](./Screenshot%202025-05-06%20at%208.35.02%20AM.jpeg)
