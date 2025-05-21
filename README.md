@@ -37,10 +37,10 @@ This hands-on project demonstrates how to detect suspicious activity on a Window
 ![Image](https://github.com/user-attachments/assets/a2c8ba23-a8a5-461a-9ca6-47498f2f106d)
 
 ### Event ID 4625 (Failed Logon Attempt)
-![Event 4625](./Screenshot%202025-05-06%20at%208.35.02%20AM.jpeg)
+![Image](https://github.com/user-attachments/assets/46a800c4-3564-4061-921c-d80c8fc441f3)
 
 ### Brute-Force Attempt from Kali (Hydra)
-![Hydra Attempt](./Screenshot%202025-05-06%20at%206.51.01%20AM.jpeg)
+![Image](https://github.com/user-attachments/assets/2fcc8c60-e585-4490-b229-ecb0f3a62e67)
 
 ### Threat Hunting in Wazuh Dashboard
 ![Threat Hunting](./Screenshot%202025-05-06%20at%208.29.54%20AM.jpeg)
