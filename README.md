@@ -43,10 +43,10 @@ This hands-on project demonstrates how to detect suspicious activity on a Window
 ![Image](https://github.com/user-attachments/assets/2fcc8c60-e585-4490-b229-ecb0f3a62e67)
 
 ### Threat Hunting in Wazuh Dashboard
-![Threat Hunting](./Screenshot%202025-05-06%20at%208.29.54%20AM.jpeg)
+![Image](https://github.com/user-attachments/assets/503215b5-6020-4c83-bbf6-bc6052bfaccd)
 
 ### Windows Event Viewer Capturing Activity via Sysmon
-![Sysmon Event Viewer](./Screenshot%202025-05-06%20at%208.27.13%20AM.jpeg)
+![Image](https://github.com/user-attachments/assets/faca3fbc-1e2a-4105-b50a-5ad9c8e7a2ee)
 
 ---
 
